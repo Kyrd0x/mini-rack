@@ -10,7 +10,7 @@ This setup has been on my mind for a while — finally brought it to life.
 
 From top to bottom
 
-- [Protecli FW4B](https://amzn.eu/d/2zSOyJc)
+- [Protectli FW4B](https://amzn.eu/d/2zSOyJc)
 - [Mikrotik CSS610-8G-2S+in](https://amzn.eu/d/8RDjH5p)
 - 3x Lenovo Tiny (M720Q & 2xM75Q) from Ebay
 - [PDU 4x type E](https://amzn.eu/d/aap8DOp)
@@ -32,8 +32,8 @@ Right now the Proxmox cluster (16 CPUs, 64GB ram, 1To nvme) is only running some
 
 ### Future plans
 
-My next move will be to add a 4th node to the cluster, with way more compute power when I will need it.
-Later plans are to build a second mini-rack with builtin NAS at least, the rear RJ45 is already waiting for the extension.
+My next move will be to add a 4th node to the cluster, with way more compute power, when I will need it. I might be able to fit it next to the Protectli actually.\
+Later plans are to build a second mini-rack with builtin NAS & Mini ITX at least, the rear RJ45 is already waiting for the extension.
 
 
 ### Ressources
