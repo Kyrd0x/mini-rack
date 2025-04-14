@@ -23,6 +23,7 @@ I put a 120mm 5V usb fan underneath, not sure of the efficiency.
 
 I 3D printed Lenovo's rack mount from [this](https://www.printables.com/model/1040412-lenovo-thinkcentre-tiny-m720qm715qm920q-10-rack-mo) plan, they are just fine.
 Bottom venting panel is from [this](https://www.printables.com/model/1149718-grid-rack-panel-1u-ventilation-panel-cover-for-10) plan.
+Both of the rear blank panels are from [this](https://www.printables.com/model/1014591-10-inch-12u-rack-mount-blanks) plan.
 
 ### What's running
 
