@@ -8,8 +8,6 @@ This setup has been on my mind for a while — finally brought it to life.
 
 ### Build details
 
-From top to bottom
-
 - [Protectli FW4B](https://amzn.eu/d/2zSOyJc)
 - [Mikrotik CSS610-8G-2S+in](https://amzn.eu/d/8RDjH5p)
 - 3x Lenovo Tiny (M720Q & 2xM75Q) from Ebay
